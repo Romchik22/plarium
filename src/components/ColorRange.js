@@ -65,7 +65,7 @@ class ColorRange extends React.Component {
 			</div>
 		)
 	}
-};
+}
 
 ColorRange.propTypes = { color: PropTypes.string.isRequired };
 
